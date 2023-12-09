@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\Hatırlatıcı\Hatirlatici\Core\HatirlaticiAPI.Application\bin\Debug\net6.0\HatirlaticiAPI.Application.deps.json
+C:\Users\User\Documents\GitHub\Hatırlatıcı\Hatirlatici\Core\HatirlaticiAPI.Application\bin\Debug\net6.0\HatirlaticiAPI.Application.dll
+C:\Users\User\Documents\GitHub\Hatırlatıcı\Hatirlatici\Core\HatirlaticiAPI.Application\bin\Debug\net6.0\HatirlaticiAPI.Application.pdb
+C:\Users\User\Documents\GitHub\Hatırlatıcı\Hatirlatici\Core\HatirlaticiAPI.Application\bin\Debug\net6.0\HatirlaticiAPI.Domain.dll
+C:\Users\User\Documents\GitHub\Hatırlatıcı\Hatirlatici\Core\HatirlaticiAPI.Application\bin\Debug\net6.0\HatirlaticiAPI.Domain.pdb
+C:\Users\User\Documents\GitHub\Hatırlatıcı\Hatirlatici\Core\HatirlaticiAPI.Application\obj\Debug\net6.0\HatirlaticiAPI.Application.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\Hatırlatıcı\Hatirlatici\Core\HatirlaticiAPI.Application\obj\Debug\net6.0\HatirlaticiAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\Hatırlatıcı\Hatirlatici\Core\HatirlaticiAPI.Application\obj\Debug\net6.0\HatirlaticiAPI.Application.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\Hatırlatıcı\Hatirlatici\Core\HatirlaticiAPI.Application\obj\Debug\net6.0\HatirlaticiAPI.Application.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\Hatırlatıcı\Hatirlatici\Core\HatirlaticiAPI.Application\obj\Debug\net6.0\HatirlaticiAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\Hatırlatıcı\Hatirlatici\Core\HatirlaticiAPI.Application\obj\Debug\net6.0\HatirlaticiAPI.Application.csproj.CopyComplete
+C:\Users\User\Documents\GitHub\Hatırlatıcı\Hatirlatici\Core\HatirlaticiAPI.Application\obj\Debug\net6.0\HatirlaticiAPI.Application.dll
+C:\Users\User\Documents\GitHub\Hatırlatıcı\Hatirlatici\Core\HatirlaticiAPI.Application\obj\Debug\net6.0\refint\HatirlaticiAPI.Application.dll
+C:\Users\User\Documents\GitHub\Hatırlatıcı\Hatirlatici\Core\HatirlaticiAPI.Application\obj\Debug\net6.0\HatirlaticiAPI.Application.pdb
+C:\Users\User\Documents\GitHub\Hatırlatıcı\Hatirlatici\Core\HatirlaticiAPI.Application\obj\Debug\net6.0\ref\HatirlaticiAPI.Application.dll

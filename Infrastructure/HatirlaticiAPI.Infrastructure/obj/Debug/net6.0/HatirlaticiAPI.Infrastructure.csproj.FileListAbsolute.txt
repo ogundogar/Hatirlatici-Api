@@ -1,0 +1,17 @@
+C:\Users\User\Documents\GitHub\Hatırlatıcı\Hatirlatici\Infrastructure\HatirlaticiAPI.Infrastructure\bin\Debug\net6.0\HatirlaticiAPI.Infrastructure.deps.json
+C:\Users\User\Documents\GitHub\Hatırlatıcı\Hatirlatici\Infrastructure\HatirlaticiAPI.Infrastructure\bin\Debug\net6.0\HatirlaticiAPI.Infrastructure.dll
+C:\Users\User\Documents\GitHub\Hatırlatıcı\Hatirlatici\Infrastructure\HatirlaticiAPI.Infrastructure\bin\Debug\net6.0\HatirlaticiAPI.Infrastructure.pdb
+C:\Users\User\Documents\GitHub\Hatırlatıcı\Hatirlatici\Infrastructure\HatirlaticiAPI.Infrastructure\bin\Debug\net6.0\HatirlaticiAPI.Application.dll
+C:\Users\User\Documents\GitHub\Hatırlatıcı\Hatirlatici\Infrastructure\HatirlaticiAPI.Infrastructure\bin\Debug\net6.0\HatirlaticiAPI.Domain.dll
+C:\Users\User\Documents\GitHub\Hatırlatıcı\Hatirlatici\Infrastructure\HatirlaticiAPI.Infrastructure\bin\Debug\net6.0\HatirlaticiAPI.Application.pdb
+C:\Users\User\Documents\GitHub\Hatırlatıcı\Hatirlatici\Infrastructure\HatirlaticiAPI.Infrastructure\bin\Debug\net6.0\HatirlaticiAPI.Domain.pdb
+C:\Users\User\Documents\GitHub\Hatırlatıcı\Hatirlatici\Infrastructure\HatirlaticiAPI.Infrastructure\obj\Debug\net6.0\HatirlaticiAPI.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\Hatırlatıcı\Hatirlatici\Infrastructure\HatirlaticiAPI.Infrastructure\obj\Debug\net6.0\HatirlaticiAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\Hatırlatıcı\Hatirlatici\Infrastructure\HatirlaticiAPI.Infrastructure\obj\Debug\net6.0\HatirlaticiAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\Hatırlatıcı\Hatirlatici\Infrastructure\HatirlaticiAPI.Infrastructure\obj\Debug\net6.0\HatirlaticiAPI.Infrastructure.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\Hatırlatıcı\Hatirlatici\Infrastructure\HatirlaticiAPI.Infrastructure\obj\Debug\net6.0\HatirlaticiAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\Hatırlatıcı\Hatirlatici\Infrastructure\HatirlaticiAPI.Infrastructure\obj\Debug\net6.0\HatirlaticiAPI.Infrastructure.csproj.CopyComplete
+C:\Users\User\Documents\GitHub\Hatırlatıcı\Hatirlatici\Infrastructure\HatirlaticiAPI.Infrastructure\obj\Debug\net6.0\HatirlaticiAPI.Infrastructure.dll
+C:\Users\User\Documents\GitHub\Hatırlatıcı\Hatirlatici\Infrastructure\HatirlaticiAPI.Infrastructure\obj\Debug\net6.0\refint\HatirlaticiAPI.Infrastructure.dll
+C:\Users\User\Documents\GitHub\Hatırlatıcı\Hatirlatici\Infrastructure\HatirlaticiAPI.Infrastructure\obj\Debug\net6.0\HatirlaticiAPI.Infrastructure.pdb
+C:\Users\User\Documents\GitHub\Hatırlatıcı\Hatirlatici\Infrastructure\HatirlaticiAPI.Infrastructure\obj\Debug\net6.0\ref\HatirlaticiAPI.Infrastructure.dll

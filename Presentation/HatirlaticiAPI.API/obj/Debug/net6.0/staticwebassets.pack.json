@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Hatırlatıcı\\Hatirlatici\\Presentation\\HatirlaticiAPI.API\\wwwroot\\resource\\users-images\\12.jpg",
+      "PackagePath": "staticwebassets\\resource\\users-images\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Hatırlatıcı\\Hatirlatici\\Presentation\\HatirlaticiAPI.API\\wwwroot\\resource\\users-images\\2.jpg",
+      "PackagePath": "staticwebassets\\resource\\users-images\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Hatırlatıcı\\Hatirlatici\\Presentation\\HatirlaticiAPI.API\\wwwroot\\resource\\users-images\\a1.jpg",
+      "PackagePath": "staticwebassets\\resource\\users-images\\a1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Hatırlatıcı\\Hatirlatici\\Presentation\\HatirlaticiAPI.API\\wwwroot\\resource\\users-images\\cyberpunk-astronaut-minimal-4k-jg-1366x768.jpg",
+      "PackagePath": "staticwebassets\\resource\\users-images\\cyberpunk-astronaut-minimal-4k-jg-1366x768.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Hatırlatıcı\\Hatirlatici\\Presentation\\HatirlaticiAPI.API\\wwwroot\\resource\\users-images\\wallpaperflare-comwallpaper.jpg",
+      "PackagePath": "staticwebassets\\resource\\users-images\\wallpaperflare-comwallpaper.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Hatırlatıcı\\Hatirlatici\\Presentation\\HatirlaticiAPI.API\\wwwroot\\resource\\users-images\\wqeqw.jpg",
+      "PackagePath": "staticwebassets\\resource\\users-images\\wqeqw.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Hatırlatıcı\\Hatirlatici\\Presentation\\HatirlaticiAPI.API\\wwwroot\\resource\\users-images\\zcx.jpg",
+      "PackagePath": "staticwebassets\\resource\\users-images\\zcx.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.HatirlaticiAPI.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.HatirlaticiAPI.API.props",
+      "PackagePath": "build\\HatirlaticiAPI.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.HatirlaticiAPI.API.props",
+      "PackagePath": "buildMultiTargeting\\HatirlaticiAPI.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.HatirlaticiAPI.API.props",
+      "PackagePath": "buildTransitive\\HatirlaticiAPI.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

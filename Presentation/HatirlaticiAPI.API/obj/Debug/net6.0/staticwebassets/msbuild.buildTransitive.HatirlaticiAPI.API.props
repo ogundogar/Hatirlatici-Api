@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\HatirlaticiAPI.API.props" />
+</Project>

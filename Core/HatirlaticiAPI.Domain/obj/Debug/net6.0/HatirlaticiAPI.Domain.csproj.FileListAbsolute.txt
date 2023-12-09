@@ -1,0 +1,12 @@
+C:\Users\User\Documents\GitHub\Hatırlatıcı\Hatirlatici\Core\HatirlaticiAPI.Domain\bin\Debug\net6.0\HatirlaticiAPI.Domain.deps.json
+C:\Users\User\Documents\GitHub\Hatırlatıcı\Hatirlatici\Core\HatirlaticiAPI.Domain\bin\Debug\net6.0\HatirlaticiAPI.Domain.dll
+C:\Users\User\Documents\GitHub\Hatırlatıcı\Hatirlatici\Core\HatirlaticiAPI.Domain\bin\Debug\net6.0\HatirlaticiAPI.Domain.pdb
+C:\Users\User\Documents\GitHub\Hatırlatıcı\Hatirlatici\Core\HatirlaticiAPI.Domain\obj\Debug\net6.0\HatirlaticiAPI.Domain.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\Hatırlatıcı\Hatirlatici\Core\HatirlaticiAPI.Domain\obj\Debug\net6.0\HatirlaticiAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\Hatırlatıcı\Hatirlatici\Core\HatirlaticiAPI.Domain\obj\Debug\net6.0\HatirlaticiAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\Hatırlatıcı\Hatirlatici\Core\HatirlaticiAPI.Domain\obj\Debug\net6.0\HatirlaticiAPI.Domain.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\Hatırlatıcı\Hatirlatici\Core\HatirlaticiAPI.Domain\obj\Debug\net6.0\HatirlaticiAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\Hatırlatıcı\Hatirlatici\Core\HatirlaticiAPI.Domain\obj\Debug\net6.0\HatirlaticiAPI.Domain.dll
+C:\Users\User\Documents\GitHub\Hatırlatıcı\Hatirlatici\Core\HatirlaticiAPI.Domain\obj\Debug\net6.0\refint\HatirlaticiAPI.Domain.dll
+C:\Users\User\Documents\GitHub\Hatırlatıcı\Hatirlatici\Core\HatirlaticiAPI.Domain\obj\Debug\net6.0\HatirlaticiAPI.Domain.pdb
+C:\Users\User\Documents\GitHub\Hatırlatıcı\Hatirlatici\Core\HatirlaticiAPI.Domain\obj\Debug\net6.0\ref\HatirlaticiAPI.Domain.dll
