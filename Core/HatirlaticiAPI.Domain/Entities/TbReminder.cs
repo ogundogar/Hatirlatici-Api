@@ -12,6 +12,5 @@ namespace HatirlaticiAPI.Domain.Entities
         public string Name { get; set; } = null!;
         public string Description { get; set; } = null!;
         public string Data { get; set; } = null!;
-        public List<TbGroups>? Groups { get; set; }
     }
 }

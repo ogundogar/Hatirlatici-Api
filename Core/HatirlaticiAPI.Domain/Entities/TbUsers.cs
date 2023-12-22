@@ -9,11 +9,11 @@ namespace HatirlaticiAPI.Domain.Entities
 {
     public class TbUsers:BaseEntity
     {
-        public string? UserName { get; set; } 
-        public string? Password { get; set; }
-        public string? Email { get; set; }
+        public string UserName { get; set; } 
+        public string Password { get; set; }
+        public string Email { get; set; }
         public DateTime DateOfBrith { get; set; }
-        public List<TbGroups>? Groups { get; set; }
-        public List<TbReminder>? Reminders { get; set; }
+        public ICollection<TbReminder>? Reminders { get; set; }
+        public ICollection<TbUserImageFile>? UserImageFiles { get; set; }
     }
 }

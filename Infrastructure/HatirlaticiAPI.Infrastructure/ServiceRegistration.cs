@@ -1,11 +1,9 @@
-﻿using HatirlaticiAPI.Application.Services;
-using HatirlaticiAPI.Infrastructure.Services;
+﻿using HatirlaticiAPI.Application.Abstractions.Storage;
+using HatirlaticiAPI.Application.Abstractions.Token;
+using HatirlaticiAPI.Infrastructure.Services.Storage;
+using HatirlaticiAPI.Infrastructure.Services.Token;
 using Microsoft.Extensions.DependencyInjection;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace HatirlaticiAPI.Infrastructure
 {
@@ -13,7 +11,12 @@ namespace HatirlaticiAPI.Infrastructure
     {
         public static void AddInfrastructureServices(this IServiceCollection serviceCollection)
         {
-            serviceCollection.AddScoped<IFileService, FileService>();
+            serviceCollection.AddScoped<IStorageService, StorageService>();
+            serviceCollection.AddScoped<ITokenHandler, TokenHandler>();
+        }
+        public static void AddStorage<T>(this IServiceCollection serviceCollection) where T : Storage, IStorage
+        {
+            serviceCollection.AddScoped<IStorage, T>();
         }
     }
 }

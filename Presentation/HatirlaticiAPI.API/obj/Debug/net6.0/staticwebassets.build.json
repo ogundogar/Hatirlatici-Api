@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "PPQL9zcQ+jGgRcE0xdHIJ6o0iIwENpZeKkoLI4Hz5nc=",
+  "Hash": "W+FDLoJLM2fOlmoRKcXGH6C34cX8H/f28TR966q3wEc=",
   "Source": "HatirlaticiAPI.API",
   "BasePath": "_content/HatirlaticiAPI.API",
   "Mode": "Default",
@@ -17,12 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Hatırlatıcı\\Hatirlatici\\Presentation\\HatirlaticiAPI.API\\wwwroot\\resource\\users-images\\12.jpg",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Hatırlatıcı\\Hatirlatici\\Presentation\\HatirlaticiAPI.API\\wwwroot\\photo-image\\1165066.jpg",
       "SourceId": "HatirlaticiAPI.API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Hatırlatıcı\\Hatirlatici\\Presentation\\HatirlaticiAPI.API\\wwwroot\\",
       "BasePath": "_content/HatirlaticiAPI.API",
-      "RelativePath": "resource/users-images/12.jpg",
+      "RelativePath": "photo-image/1165066.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -31,15 +31,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\resource\\users-images\\12.jpg"
+      "OriginalItemSpec": "wwwroot\\photo-image\\1165066.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Hatırlatıcı\\Hatirlatici\\Presentation\\HatirlaticiAPI.API\\wwwroot\\resource\\users-images\\2.jpg",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Hatırlatıcı\\Hatirlatici\\Presentation\\HatirlaticiAPI.API\\wwwroot\\photo-image\\2023-Formula1-Ferrari-SF-23-003-2160.jpg",
       "SourceId": "HatirlaticiAPI.API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Hatırlatıcı\\Hatirlatici\\Presentation\\HatirlaticiAPI.API\\wwwroot\\",
       "BasePath": "_content/HatirlaticiAPI.API",
-      "RelativePath": "resource/users-images/2.jpg",
+      "RelativePath": "photo-image/2023-Formula1-Ferrari-SF-23-003-2160.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -48,15 +48,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\resource\\users-images\\2.jpg"
+      "OriginalItemSpec": "wwwroot\\photo-image\\2023-Formula1-Ferrari-SF-23-003-2160.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Hatırlatıcı\\Hatirlatici\\Presentation\\HatirlaticiAPI.API\\wwwroot\\resource\\users-images\\a1.jpg",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Hatırlatıcı\\Hatirlatici\\Presentation\\HatirlaticiAPI.API\\wwwroot\\photo-image\\2023-Formula1-Mercedes-AMG-F1-W14-E-Performance-002-2160.jpg",
       "SourceId": "HatirlaticiAPI.API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Hatırlatıcı\\Hatirlatici\\Presentation\\HatirlaticiAPI.API\\wwwroot\\",
       "BasePath": "_content/HatirlaticiAPI.API",
-      "RelativePath": "resource/users-images/a1.jpg",
+      "RelativePath": "photo-image/2023-Formula1-Mercedes-AMG-F1-W14-E-Performance-002-2160.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -65,15 +65,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\resource\\users-images\\a1.jpg"
+      "OriginalItemSpec": "wwwroot\\photo-image\\2023-Formula1-Mercedes-AMG-F1-W14-E-Performance-002-2160.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Hatırlatıcı\\Hatirlatici\\Presentation\\HatirlaticiAPI.API\\wwwroot\\resource\\users-images\\cyberpunk-astronaut-minimal-4k-jg-1366x768.jpg",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Hatırlatıcı\\Hatirlatici\\Presentation\\HatirlaticiAPI.API\\wwwroot\\photo-image\\dark-Knight.jpg",
       "SourceId": "HatirlaticiAPI.API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Hatırlatıcı\\Hatirlatici\\Presentation\\HatirlaticiAPI.API\\wwwroot\\",
       "BasePath": "_content/HatirlaticiAPI.API",
-      "RelativePath": "resource/users-images/cyberpunk-astronaut-minimal-4k-jg-1366x768.jpg",
+      "RelativePath": "photo-image/dark-Knight.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -82,15 +82,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\resource\\users-images\\cyberpunk-astronaut-minimal-4k-jg-1366x768.jpg"
+      "OriginalItemSpec": "wwwroot\\photo-image\\dark-Knight.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Hatırlatıcı\\Hatirlatici\\Presentation\\HatirlaticiAPI.API\\wwwroot\\resource\\users-images\\wallpaperflare-comwallpaper.jpg",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Hatırlatıcı\\Hatirlatici\\Presentation\\HatirlaticiAPI.API\\wwwroot\\photo-image\\f1-mercedes.jpg",
       "SourceId": "HatirlaticiAPI.API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Hatırlatıcı\\Hatirlatici\\Presentation\\HatirlaticiAPI.API\\wwwroot\\",
       "BasePath": "_content/HatirlaticiAPI.API",
-      "RelativePath": "resource/users-images/wallpaperflare-comwallpaper.jpg",
+      "RelativePath": "photo-image/f1-mercedes.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -99,15 +99,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\resource\\users-images\\wallpaperflare-comwallpaper.jpg"
+      "OriginalItemSpec": "wwwroot\\photo-image\\f1-mercedes.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Hatırlatıcı\\Hatirlatici\\Presentation\\HatirlaticiAPI.API\\wwwroot\\resource\\users-images\\wqeqw.jpg",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Hatırlatıcı\\Hatirlatici\\Presentation\\HatirlaticiAPI.API\\wwwroot\\photo-image\\nissan-gtr.jpg",
       "SourceId": "HatirlaticiAPI.API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Hatırlatıcı\\Hatirlatici\\Presentation\\HatirlaticiAPI.API\\wwwroot\\",
       "BasePath": "_content/HatirlaticiAPI.API",
-      "RelativePath": "resource/users-images/wqeqw.jpg",
+      "RelativePath": "photo-image/nissan-gtr.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -116,15 +116,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\resource\\users-images\\wqeqw.jpg"
+      "OriginalItemSpec": "wwwroot\\photo-image\\nissan-gtr.jpg"
     },
     {
-      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Hatırlatıcı\\Hatirlatici\\Presentation\\HatirlaticiAPI.API\\wwwroot\\resource\\users-images\\zcx.jpg",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Hatırlatıcı\\Hatirlatici\\Presentation\\HatirlaticiAPI.API\\wwwroot\\photo-image\\wallpaperflare-comwallpaper.jpg",
       "SourceId": "HatirlaticiAPI.API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Hatırlatıcı\\Hatirlatici\\Presentation\\HatirlaticiAPI.API\\wwwroot\\",
       "BasePath": "_content/HatirlaticiAPI.API",
-      "RelativePath": "resource/users-images/zcx.jpg",
+      "RelativePath": "photo-image/wallpaperflare-comwallpaper.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -133,7 +133,24 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\resource\\users-images\\zcx.jpg"
+      "OriginalItemSpec": "wwwroot\\photo-image\\wallpaperflare-comwallpaper.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Hatırlatıcı\\Hatirlatici\\Presentation\\HatirlaticiAPI.API\\wwwroot\\photo-image\\witcher.jpg",
+      "SourceId": "HatirlaticiAPI.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Hatırlatıcı\\Hatirlatici\\Presentation\\HatirlaticiAPI.API\\wwwroot\\",
+      "BasePath": "_content/HatirlaticiAPI.API",
+      "RelativePath": "photo-image/witcher.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\photo-image\\witcher.jpg"
     }
   ]
 }

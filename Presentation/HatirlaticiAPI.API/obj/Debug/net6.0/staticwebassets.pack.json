@@ -1,32 +1,36 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\User\\Documents\\GitHub\\Hatırlatıcı\\Hatirlatici\\Presentation\\HatirlaticiAPI.API\\wwwroot\\resource\\users-images\\12.jpg",
-      "PackagePath": "staticwebassets\\resource\\users-images\\12.jpg"
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Hatırlatıcı\\Hatirlatici\\Presentation\\HatirlaticiAPI.API\\wwwroot\\photo-image\\1165066.jpg",
+      "PackagePath": "staticwebassets\\photo-image\\1165066.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Documents\\GitHub\\Hatırlatıcı\\Hatirlatici\\Presentation\\HatirlaticiAPI.API\\wwwroot\\resource\\users-images\\2.jpg",
-      "PackagePath": "staticwebassets\\resource\\users-images\\2.jpg"
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Hatırlatıcı\\Hatirlatici\\Presentation\\HatirlaticiAPI.API\\wwwroot\\photo-image\\2023-Formula1-Ferrari-SF-23-003-2160.jpg",
+      "PackagePath": "staticwebassets\\photo-image\\2023-Formula1-Ferrari-SF-23-003-2160.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Documents\\GitHub\\Hatırlatıcı\\Hatirlatici\\Presentation\\HatirlaticiAPI.API\\wwwroot\\resource\\users-images\\a1.jpg",
-      "PackagePath": "staticwebassets\\resource\\users-images\\a1.jpg"
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Hatırlatıcı\\Hatirlatici\\Presentation\\HatirlaticiAPI.API\\wwwroot\\photo-image\\2023-Formula1-Mercedes-AMG-F1-W14-E-Performance-002-2160.jpg",
+      "PackagePath": "staticwebassets\\photo-image\\2023-Formula1-Mercedes-AMG-F1-W14-E-Performance-002-2160.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Documents\\GitHub\\Hatırlatıcı\\Hatirlatici\\Presentation\\HatirlaticiAPI.API\\wwwroot\\resource\\users-images\\cyberpunk-astronaut-minimal-4k-jg-1366x768.jpg",
-      "PackagePath": "staticwebassets\\resource\\users-images\\cyberpunk-astronaut-minimal-4k-jg-1366x768.jpg"
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Hatırlatıcı\\Hatirlatici\\Presentation\\HatirlaticiAPI.API\\wwwroot\\photo-image\\dark-Knight.jpg",
+      "PackagePath": "staticwebassets\\photo-image\\dark-Knight.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Documents\\GitHub\\Hatırlatıcı\\Hatirlatici\\Presentation\\HatirlaticiAPI.API\\wwwroot\\resource\\users-images\\wallpaperflare-comwallpaper.jpg",
-      "PackagePath": "staticwebassets\\resource\\users-images\\wallpaperflare-comwallpaper.jpg"
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Hatırlatıcı\\Hatirlatici\\Presentation\\HatirlaticiAPI.API\\wwwroot\\photo-image\\f1-mercedes.jpg",
+      "PackagePath": "staticwebassets\\photo-image\\f1-mercedes.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Documents\\GitHub\\Hatırlatıcı\\Hatirlatici\\Presentation\\HatirlaticiAPI.API\\wwwroot\\resource\\users-images\\wqeqw.jpg",
-      "PackagePath": "staticwebassets\\resource\\users-images\\wqeqw.jpg"
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Hatırlatıcı\\Hatirlatici\\Presentation\\HatirlaticiAPI.API\\wwwroot\\photo-image\\nissan-gtr.jpg",
+      "PackagePath": "staticwebassets\\photo-image\\nissan-gtr.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Documents\\GitHub\\Hatırlatıcı\\Hatirlatici\\Presentation\\HatirlaticiAPI.API\\wwwroot\\resource\\users-images\\zcx.jpg",
-      "PackagePath": "staticwebassets\\resource\\users-images\\zcx.jpg"
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Hatırlatıcı\\Hatirlatici\\Presentation\\HatirlaticiAPI.API\\wwwroot\\photo-image\\wallpaperflare-comwallpaper.jpg",
+      "PackagePath": "staticwebassets\\photo-image\\wallpaperflare-comwallpaper.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\Hatırlatıcı\\Hatirlatici\\Presentation\\HatirlaticiAPI.API\\wwwroot\\photo-image\\witcher.jpg",
+      "PackagePath": "staticwebassets\\photo-image\\witcher.jpg"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.HatirlaticiAPI.API.Microsoft.AspNetCore.StaticWebAssets.props",
